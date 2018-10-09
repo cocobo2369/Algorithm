@@ -1,4 +1,4 @@
-//KMP_01786_찾기 우헤헤
+//KMP_01786_찾기
 #include<stdio.h>
 
 #define Max 1000001
