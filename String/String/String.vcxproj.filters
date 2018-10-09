@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="180826_11656_접미사배열.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="180826_13013_접미사배열2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="180826_11478_서로 다른 부분 문자열의 개수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="180829_11479_서로 다른 부분 문자열의 개수2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="180829_11479_서로 다른 부분 문자열의 개수2_2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="180829_09248_suffix Array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="180831_01701_cubeditor.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="180831_05582_공통부분문자열.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="180831_13275_가장 긴 팰린드롬 부분 문자열.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="180902_03789_Hidden Password.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="180902_13013_접미사배열2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="180902_10413_반복되는부분문자열.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="180915_01605_반복 부분문자열.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="180922_09249_최장공통부분문자열.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

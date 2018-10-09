@@ -1,0 +1,7 @@
+﻿  181003_09966_한국이 그리울 땐 서버에 접속하지.c
+c:\users\byoung1choi\onedrive\visual_studio\string\03_문자열처리\181003_09966_한국이 그리울 땐 서버에 접속하지.c(25): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\byoung1choi\onedrive\visual_studio\string\03_문자열처리\181003_09966_한국이 그리울 땐 서버에 접속하지.c(35): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  03_문자열처리.vcxproj -> C:\Users\Byoung1Choi\OneDrive\visual_studio\String\x64\Debug\03_문자열처리.exe
+  03_문자열처리.vcxproj -> C:\Users\Byoung1Choi\OneDrive\visual_studio\String\x64\Debug\03_문자열처리.pdb (Full PDB)

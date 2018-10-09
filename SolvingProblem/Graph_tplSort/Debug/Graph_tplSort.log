@@ -1,0 +1,9 @@
+﻿  180819_01948_임계경로_2.c
+c:\users\cocob\onedrive\visual_studio\solvingproblem\graph_tplsort\180819_01948_임계경로_2.c(73): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\cocob\onedrive\visual_studio\solvingproblem\graph_tplsort\180819_01948_임계경로_2.c(81): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\cocob\onedrive\visual_studio\solvingproblem\graph_tplsort\180819_01948_임계경로_2.c(97): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  Graph_tplSort.vcxproj -> C:\Users\cocob\OneDrive\visual_studio\SolvingProblem\Debug\Graph_tplSort.exe
+  Graph_tplSort.vcxproj -> C:\Users\cocob\OneDrive\visual_studio\SolvingProblem\Debug\Graph_tplSort.pdb (Full PDB)

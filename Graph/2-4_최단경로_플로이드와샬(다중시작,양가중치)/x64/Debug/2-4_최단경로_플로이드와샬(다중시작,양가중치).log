@@ -1,0 +1,8 @@
+﻿  03_11780_플로이드2.c
+c:\users\cocob\onedrive\visual_studio\graph\2-4_최단경로_플로이드와샬(다중시작,양가중치)\03_11780_플로이드2.c(31): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\cocob\onedrive\visual_studio\graph\2-4_최단경로_플로이드와샬(다중시작,양가중치)\03_11780_플로이드2.c(40): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\cocob\onedrive\visual_studio\graph\2-4_최단경로_플로이드와샬(다중시작,양가중치)\03_11780_플로이드2.c(28): warning C4715: 'go': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  2-4_최단경로_플로이드와샬(다중시작,양가중치).vcxproj -> C:\Users\cocob\OneDrive\visual_studio\Graph\x64\Debug\2-4_최단경로_플로이드와샬(다중시작,양가중치).exe
+  2-4_최단경로_플로이드와샬(다중시작,양가중치).vcxproj -> C:\Users\cocob\OneDrive\visual_studio\Graph\x64\Debug\2-4_최단경로_플로이드와샬(다중시작,양가중치).pdb (Full PDB)

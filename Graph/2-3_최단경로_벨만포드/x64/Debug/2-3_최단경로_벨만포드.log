@@ -1,0 +1,12 @@
+﻿  02_01856_웜홀.c
+c:\users\byoung1choi\onedrive\visual_studio\graph\2-3_최단경로_벨만포드\02_01856_웜홀.c(50): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\byoung1choi\onedrive\visual_studio\graph\2-3_최단경로_벨만포드\02_01856_웜홀.c(52): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\byoung1choi\onedrive\visual_studio\graph\2-3_최단경로_벨만포드\02_01856_웜홀.c(59): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\byoung1choi\onedrive\visual_studio\graph\2-3_최단경로_벨만포드\02_01856_웜홀.c(65): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\byoung1choi\onedrive\visual_studio\graph\2-3_최단경로_벨만포드\02_01856_웜홀.c(47): warning C4716: 'bellman': 값을 반환해야 합니다.
+  2-3_최단경로_벨만포드.vcxproj -> C:\Users\Byoung1Choi\OneDrive\visual_studio\Graph\x64\Debug\2-3-1_최단경로_벨만포드(단일시작, 양음가중치).exe
+  2-3_최단경로_벨만포드.vcxproj -> C:\Users\Byoung1Choi\OneDrive\visual_studio\Graph\x64\Debug\2-3-1_최단경로_벨만포드(단일시작, 양음가중치).pdb (Full PDB)

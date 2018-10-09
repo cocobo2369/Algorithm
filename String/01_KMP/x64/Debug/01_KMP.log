@@ -1,0 +1,5 @@
+﻿  180905_04354_문자열제곱.c
+c:\users\cocob\onedrive\visual_studio\string\01_kmp\180905_04354_문자열제곱.c(29): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  01_KMP.vcxproj -> C:\Users\cocob\OneDrive\visual_studio\String\x64\Debug\01_KMP.exe
+  01_KMP.vcxproj -> C:\Users\cocob\OneDrive\visual_studio\String\x64\Debug\01_KMP.pdb (Full PDB)
