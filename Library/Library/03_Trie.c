@@ -43,7 +43,7 @@ void add(int now, char * string, int sIdx) {
 
 int search(int now, char * string, int sIdx) {
 
-	if (string[sIdx] == 0) // Áß¿ä
+	if (string[sIdx] == 0) //
 		return 1;
 
 	int c = conv[string[sIdx]];
